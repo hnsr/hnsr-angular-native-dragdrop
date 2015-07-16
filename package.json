@@ -1,0 +1,26 @@
+{
+  "name": "hnsr-angular-native-dragdrop",
+  "version": "1.1.0",
+  "description": "Wrapper around angular-native-dragdrop for use with npm+browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnsr/hnsr-angular-native-dragdrop.git"
+  },
+  "keywords": [
+    "angular",
+    "dnd"
+  ],
+  "author": "Hans Nieser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnsr/hnsr-angular-native-dragdrop/issues"
+  },
+  "homepage": "https://github.com/hnsr/hnsr-angular-native-dragdrop#readme",
+  "dependencies": {
+    "angular-native-dragdrop": "=1.1.0"
+  }
+}
